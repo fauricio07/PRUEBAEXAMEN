@@ -1,0 +1,16 @@
+c:\users\a-fau\onedrive\documentos\visual studio 2015\Projects\Practica1_Progra4\Practica1_Progra4\bin\Debug\Practica1_Progra4.exe.config
+c:\users\a-fau\onedrive\documentos\visual studio 2015\Projects\Practica1_Progra4\Practica1_Progra4\bin\Debug\Practica1_Progra4.exe
+c:\users\a-fau\onedrive\documentos\visual studio 2015\Projects\Practica1_Progra4\Practica1_Progra4\bin\Debug\Practica1_Progra4.pdb
+c:\users\a-fau\onedrive\documentos\visual studio 2015\Projects\Practica1_Progra4\Practica1_Progra4\bin\Debug\Practica1_Progra4.xml
+c:\users\a-fau\onedrive\documentos\visual studio 2015\Projects\Practica1_Progra4\Practica1_Progra4\obj\Debug\Practica1_Progra4.vbprojResolveAssemblyReference.cache
+c:\users\a-fau\onedrive\documentos\visual studio 2015\Projects\Practica1_Progra4\Practica1_Progra4\obj\Debug\MainWindow.g.vb
+c:\users\a-fau\onedrive\documentos\visual studio 2015\Projects\Practica1_Progra4\Practica1_Progra4\obj\Debug\Application.g.vb
+c:\users\a-fau\onedrive\documentos\visual studio 2015\Projects\Practica1_Progra4\Practica1_Progra4\obj\Debug\Practica1_Progra4_MarkupCompile.cache
+c:\users\a-fau\onedrive\documentos\visual studio 2015\Projects\Practica1_Progra4\Practica1_Progra4\obj\Debug\Practica1_Progra4_MarkupCompile.lref
+c:\users\a-fau\onedrive\documentos\visual studio 2015\Projects\Practica1_Progra4\Practica1_Progra4\obj\Debug\MainWindow.baml
+c:\users\a-fau\onedrive\documentos\visual studio 2015\Projects\Practica1_Progra4\Practica1_Progra4\obj\Debug\Practica1_Progra4.g.resources
+c:\users\a-fau\onedrive\documentos\visual studio 2015\Projects\Practica1_Progra4\Practica1_Progra4\obj\Debug\Practica1_Progra4.Resources.resources
+c:\users\a-fau\onedrive\documentos\visual studio 2015\Projects\Practica1_Progra4\Practica1_Progra4\obj\Debug\Practica1_Progra4.vbproj.GenerateResource.Cache
+c:\users\a-fau\onedrive\documentos\visual studio 2015\Projects\Practica1_Progra4\Practica1_Progra4\obj\Debug\Practica1_Progra4.exe
+c:\users\a-fau\onedrive\documentos\visual studio 2015\Projects\Practica1_Progra4\Practica1_Progra4\obj\Debug\Practica1_Progra4.xml
+c:\users\a-fau\onedrive\documentos\visual studio 2015\Projects\Practica1_Progra4\Practica1_Progra4\obj\Debug\Practica1_Progra4.pdb
